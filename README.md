@@ -40,6 +40,12 @@ Need help? Come to our [community server] and talk with us!
 
 You can also be a contributor! Suggest what we should create next and try your best to answer general questions in our [community server].
 
+# Featured
+
+## [Active developer badge](/topics/active-dev-badge/README.md)
+
+Completing the Discord active developer programme is definitely not a difficult task. Follow this guide and get the badge early!
+
 [Node.js]: https://nodejs.org/
 [discord.js]: https://discord.js.org/
 [TypeScript]: https://www.typescriptlang.org/
