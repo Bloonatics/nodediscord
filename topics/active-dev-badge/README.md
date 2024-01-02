@@ -107,11 +107,23 @@ Wait, how can I claim the badge? Wait 24 hours and then go to [Active Developer 
 
 > Remember to read the [official article].
 
+![image](https://github.com/nodediscord/nodediscord/assets/98406658/df77acbf-58aa-445c-9427-a011b430c956)
+
+Now your profile has an additional badge, but most importantly this may be your first computer programming experience.
+
+![image](https://github.com/nodediscord/nodediscord/assets/98406658/34a29243-47fc-4d08-83b8-b3b3ba57f49d)
+
 # Maintaining eligibility
 
 You should start up your bot and run its command once every month.
 
-Now your profile has an additional badge, but most importantly this may be your first computer programming experience.
+# Summary
+
+In this tutorial, you have learnt...
+
+- What is Discord active developer programme and how to complete it.
+- Create your own bot and invite it to your servers.
+- Setup Node.js program in [replit] to host your Discord bot.
 
 [official article]: https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge
 [replit]: https://replit.com/
